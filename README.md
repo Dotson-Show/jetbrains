@@ -1,5 +1,5 @@
 ### JetBrains
-This solution will help you get a trial for one month
+This solution will help you to get a trial period for one month
 
 #### Building
 ```commandline
